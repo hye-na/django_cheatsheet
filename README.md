@@ -4,6 +4,7 @@
  ``` bash
  django-admin startproject projectname
  ```
+ `cd` into the newly created projectname file
  
 ## How to start the Django development server
 ```bash
